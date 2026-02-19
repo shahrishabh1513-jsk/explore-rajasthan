@@ -13,6 +13,13 @@ The project showcases the rich heritage, royal architecture, desert landscapes, 
 
 It focuses on clean design, smooth navigation, and interactive frontend development.
 
+<p>
+  <img src="https://img.shields.io/badge/Travel-Website-ff9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Rajasthan-India-d32f2f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tourism-Project-6a1b9a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Responsive-Design-00c853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Frontend-Development-1976d2?style=for-the-badge"/>
+</p>
 ---
 
 ## ✨ Features
@@ -67,12 +74,6 @@ This project was created to:
 
 (Add screenshots in a `/screenshots` folder)
 
-Example:
-
-```
-![Homepage](screenshots/home.png)
-```
-
 ---
 
 ## 🚀 Future Improvements
@@ -85,13 +86,5 @@ Example:
 
 ---
 
-## 👨‍💻 Author
-
-**Rishabh Shah**  
-Frontend Developer | UI/UX Enthusiast  
-
-Passionate about building responsive and interactive web experiences.
-
----
-
 ⭐ If you like this project, consider giving it a star!
+
