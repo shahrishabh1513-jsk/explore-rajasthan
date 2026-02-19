@@ -1,7 +1,7 @@
 # 🏰 Rajasthan Tourism – Explore The Land of Kings
 
 ## 🌐 Live Demo
-(Add your live demo link here)
+https://shahrishabh1513-jsk.github.io/explore-rajasthan/
 
 ---
 
@@ -87,4 +87,5 @@ This project was created to:
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
 
