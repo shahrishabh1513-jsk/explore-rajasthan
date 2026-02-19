@@ -71,8 +71,7 @@ This project was created to:
 ---
 
 ## 📸 Screenshots
-
-(Add screenshots in a `/screenshots` folder)
+<img width="1889" height="818" alt="image" src="https://github.com/user-attachments/assets/a164ebe6-b220-42c4-8ea6-9182f13a00b8" />
 
 ---
 
@@ -87,5 +86,6 @@ This project was created to:
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
 
 
